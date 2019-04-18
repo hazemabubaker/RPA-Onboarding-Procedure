@@ -19,6 +19,12 @@ RPA **Aims** to free humans of repetitive tasks by replacing them with a virtual
 workforce and enabling them to focus on judgment calls, handle exceptions and
 provide oversight.
 
+### RPA Use Cases
+
+* [Use Cases of RPA in Retail Industry](https://www.youtube.com/watch?v=4RWGQdRVGgc)
+* [Typical RPA Use Cases](https://www.youtube.com/watch?v=jJIhLHHg6jI)
+* 
+
 ### General Overview About UIPath Platform    
 
 UiPath is a Robotic Process Automation tool which is used for repetitive business tasks automation. It is used to automate repetitive/redundant tasks and eliminates the human intervention.
