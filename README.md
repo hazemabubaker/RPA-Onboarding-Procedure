@@ -23,7 +23,6 @@ provide oversight.
 
 * [Use Cases of RPA in Retail Industry](https://www.youtube.com/watch?v=4RWGQdRVGgc)
 * [Typical RPA Use Cases](https://www.youtube.com/watch?v=jJIhLHHg6jI)
-* 
 
 ### General Overview About UIPath Platform    
 
