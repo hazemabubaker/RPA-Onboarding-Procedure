@@ -24,7 +24,7 @@ provide oversight.
 * [Use Cases of RPA in Retail Industry](https://www.youtube.com/watch?v=4RWGQdRVGgc)
 * [Typical RPA Use Cases](https://www.youtube.com/watch?v=jJIhLHHg6jI)
 
-### General Overview About UIPath Platform    
+### General Overview About UiPath Platform    
 
 UiPath is a Robotic Process Automation tool which is used for repetitive business tasks automation. It is used to automate repetitive/redundant tasks and eliminates the human intervention.
 
@@ -39,9 +39,9 @@ UiPath platform consists of three main components:
 [Introducing the UiPath Enterprise RPA Platform
 ](https://www.youtube.com/watch?time_continue=6&v=cMs-nvxXzZg)
 
-## Technical Onbording Track `IMPORTANT`
+## Technical Onboarding Track `Important`
 
-Our goal in the technical Onbording track is to craft a mechanism through which you as a new member in our RPA engineering unit acquire the necessary knowledge and skills to become an effective team member. We recommend starting with the `general programming skills` in order to build the foundation required for learning RPA skills. 
+Our goal in the technical Onboarding track is to craft a mechanism through which you as a new member in our RPA engineering unit acquire the necessary knowledge and skills to become an effective team member. We recommend starting with the `general programming skills` in order to build the foundation required for learning RPA skills. 
 
 ### `Step 1` - General Computer Programming Skills
 
@@ -51,7 +51,7 @@ Our goal in the technical Onbording track is to craft a mechanism through which 
 > If you work in a software development company as a non-programmer, you may wonder what the programmers do. And you hear new buzzwords everyday. This post was written with you in mind. Whether you are a sales person, a medical doctor, attorney, a business lead, or an accountant, if you’ve ever had it in mind to learn how to code, this is a good place to start.
 
 [A Gentler Introduction to Programming](https://medium.freecodecamp.org/a-gentler-introduction-to-programming-1f57383a1b2c)
->**Task duration: 2 days.** <sub>For publication reading time pluse programming concept awarnace.</sub>
+>**Task duration: 2 days.** <sub>For publication reading time plus programming concept awareness.</sub>
 
 Recommended path: [Learn to code for free. - freecodecamp](https://www.freecodecamp.org/)
 
@@ -60,21 +60,47 @@ Recommended path: [Learn to code for free. - freecodecamp](https://www.freecodec
 
 [A Complete Beginner's Guide to Programming](https://dev.to/aspittel/a-complete-beginner-s-guide-to-programming-2ni4)
 
-Your **target** here is to read the publication above and practise the same programming fundamentals using VB.NET programming language as `UIPath Studio` using VB.NET for activites macro coding.
+Your **target** here is to read the publication above and practice the same programming fundamentals using [C#](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/) programming language.
 
 **Recommendation**
 
-We recommend using VB.NET Online Compiler like [dotnetfiddle](https://dotnetfiddle.net/).
+We recommend using C# Online Compiler like [dotnetfiddle](https://dotnetfiddle.net/).
 
 > **Task duration: 3 days.** <sub>For publication reading time plus practicing programming fundamentals.</sub>
 
-#### `Optional Tutorial`: Get Started with Visual Basic in Visual Studio
+
+#### C# Tutorial `Important`
+
+> The SoloLearn C# course makes the 10th programming language available to our community for FREE!
+> 
+> **Learn**
+> Gain an understanding of C# concepts by going through short interactive texts and follow-up fun quizzes. Topics include: 
+> * Variables, 
+> * conditional statements and loops, 
+> * Methods, 
+> * Classes, 
+> * Arrays, 
+> * Strings, 
+> * Encapsulation, 
+> * Inheritance, 
+> * Polymorphism, 
+> * Interfaces, 
+> * Exceptions, 
+> * Generics, 
+> * And more!
+
+[C# Tutorial](https://www.sololearn.com/Course/CSharp/)
+> **Task duration: 3 days.** 
+
+
+
+<!-- #### `Optional Tutorial`: Get Started with Visual Basic in Visual Studio
 
 > In this tutorial for Visual Basic (VB), you'll use Visual Studio to create and run a few different console apps and explore some features of the Visual Studio integrated development environment (IDE) while you do so.
 
 [Get started with Visual Basic in Visual Studio](https://docs.microsoft.com/en-us/visualstudio/get-started/visual-basic/tutorial-console?view=vs-2019)
 
-> **Task duration: 1 days.** <sub>For practicing the tutorial.</sub> 
+> **Task duration: 1 days.** <sub>For practicing the tutorial.</sub>  -->
 
 ####  What is Source Control?
 
@@ -142,7 +168,7 @@ Team Foundation Server (commonly abbreviated to TFS) is a Microsoft product that
 
 >**Task duration: 9 days.**
 
-### `STEP 4` - UIPath Orchestrator Trainings
+### `STEP 4` - UiPath Orchestrator Trainings
 
 > Training overview: This module presents the basic and advanced Orchestrator features and functionalities. The course includes a set of practical exercises that can be done in the free training environment.
 
