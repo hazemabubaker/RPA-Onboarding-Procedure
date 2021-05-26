@@ -1,7 +1,7 @@
 # RPA and UIPath Onboarding Procedure
 
 ## Overview
-Our goal is to provide a mechanism through which new employees acquire the necessary knowledge, skills, and behaviors to become effective Xocialive members.
+Our goal is to provide a mechanism through which new employees acquire the necessary knowledge, skills, and behaviors to become effective RPA Developer.
 
 ![](img/RPA_Onboarding_Process_Outline.png)
 
